@@ -1,0 +1,22 @@
+﻿  源.c
+D:\code\test.c\Project7\源.c(1,8): error C2061: 语法错误: 标识符“_CRT_SECURE_NO_WARNINGS”
+D:\code\test.c\Project7\源.c(1,8): error C2059: 语法错误:“;”
+D:\code\test.c\Project7\源.c(1,31): error C2059: 语法错误:“常数”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(387,61): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(387,61): error C2061: 语法错误: 标识符“_StackCookie”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(387,61): error C2059: 语法错误:“;”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(387,73): error C2059: 语法错误:“)”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(388,77): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(388,77): error C2061: 语法错误: 标识符“_StackCookie”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(388,77): error C2059: 语法错误:“;”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(388,89): error C2059: 语法错误:“)”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(392,18): error C2061: 语法错误: 标识符“__security_cookie”
+D:\c语言\VC\Tools\MSVC\14.40.33807\include\vcruntime.h(392,18): error C2059: 语法错误:“;”
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(367,20): error C2081: “uintptr_t”: 形参表中的名称非法
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2146: 语法错误: 缺少“)”(在标识符“_Reserved”的前面)
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,16): error C2081: “uintptr_t”: 形参表中的名称非法
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2061: 语法错误: 标识符“_Reserved”
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2059: 语法错误:“;”
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,35): error C2059: 语法错误:“)”
+D:\code\test.c\Project7\源.c(9,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\code\test.c\Project7\源.c(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
